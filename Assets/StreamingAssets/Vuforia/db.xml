@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ArAlto" size="376.000000 376.000000" />
+    <ImageTarget name="servicio-telefonico" size="118.000000 167.000000" />
+    <ImageTarget name="rotonda" size="190.000000 191.000000" />
+    <ImageTarget name="proyeccion-de-piedras" size="190.000000 191.000000" />
+    <ImageTarget name="playa" size="118.000000 167.000000" />
+    <ImageTarget name="inicio-de-doble-circulacion" size="190.000000 191.000000" />
+    <ImageTarget name="incorporacion-de-transito-l" size="190.000000 191.000000" />
+    <ImageTarget name="estrechamiento-en-las-dos-m" size="190.000000 191.000000" />
+    <ImageTarget name="Estacionamiento" size="533.000000 533.000000" />
+    <ImageTarget name="detencion-tte-publico-pasaj" size="118.000000 167.000000" />
+    <ImageTarget name="derrumbes" size="190.000000 191.000000" />
+    <ImageTarget name="comienzo-de-autopista" size="119.000000 119.000000" />
+    <ImageTarget name="chicos" size="190.000000 191.000000" />
+    <ImageTarget name="campamento" size="118.000000 167.000000" />
+    <ImageTarget name="camino-o-calle-sin-salida" size="121.000000 118.000000" />
+    <ImageTarget name="Carretera-resbaladiza" size="190.000000 191.000000" />
+    <ImageTarget name="balneario" size="118.000000 167.000000" />
+    <ImageTarget name="animales-sueltos-ciervos" size="190.000000 191.000000" />
+    <ImageTarget name="Alto" size="500.000000 500.000000" />
+    <ImageTarget name="altura-limitada" size="191.000000 192.005264" />
+    <ImageTarget name="aeropuerto" size="118.000000 167.000000" />
+    <ImageTarget name="Estadio" size="568.000000 1135.000000" />
+    <ImageTarget name="coIglesia" size="220.000000 217.000000" />
+    <ImageTarget name="resistencia1" size="900.000000 460.000000" />
+  </Tracking>
+</QCARConfig>
